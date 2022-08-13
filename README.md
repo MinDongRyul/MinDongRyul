@@ -25,7 +25,7 @@
 <h2> </h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinDongRyul&layout=compact)](https://github.com/MinDongRyul/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinDongRyul)](https://github.com/MinDongRyul/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinDongRyul&show_icons=true&theme=tokyonight)](https://github.com/MinDongRyul/github-readme-stats)
 </div>
 <!--
 **MinDongRyul/MinDongRyul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
