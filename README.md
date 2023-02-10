@@ -24,7 +24,7 @@
 
 <h2> </h2>
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=aadd19)](https://solved.ac/aadd19)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=aadd19)](https://solved.ac/profile/aadd19)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinDongRyul&layout=compact)](https://github.com/MinDongRyul/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinDongRyul&show_icons=true&theme=tokyonight)](https://github.com/MinDongRyul/github-readme-stats)
 </div>
